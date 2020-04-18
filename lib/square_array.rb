@@ -4,4 +4,4 @@ def square_array(array)
     new_array.push(Math.sqrt(array[index]))
   }
   new_array
-endk
+end
